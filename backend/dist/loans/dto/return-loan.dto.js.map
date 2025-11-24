@@ -1,0 +1,1 @@
+{"version":3,"file":"return-loan.dto.js","sourceRoot":"","sources":["../../../src/loans/dto/return-loan.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AACA,6CAAsD;AACtD,qDAA2D;AAE3D,MAAa,aAAa;IAOxB,WAAW,CAAU;CACtB;AARD,sCAQC;AADC;IANC,IAAA,6BAAmB,EAAC;QACnB,WAAW,EAAE,yCAAyC;QACtD,OAAO,EAAE,YAAY;KACtB,CAAC;IACD,IAAA,4BAAU,GAAE;IACZ,IAAA,8BAAY,GAAE;;kDACM"}
